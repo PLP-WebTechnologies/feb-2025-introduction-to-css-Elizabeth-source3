@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  #main-title {
+    color: #005f73;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .description {
+    font-size: 18px;
+    margin: 15px;
+  }
+  
+  .styled-image {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .box {
+    margin: 20px;
+    padding: 15px;
+    border: 2px dashed #8ecae6;
+    background-color: #e0fbfc;
+  }
+  
